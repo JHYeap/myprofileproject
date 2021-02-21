@@ -1,0 +1,27 @@
+.nav-link, .navbar-brand{
+    color: black ! important;
+}
+.rounded-circle{
+    width: 160px;
+    height: 160px;
+}
+
+.bg-custom{
+    background-color: rgb(45, 139, 216);
+}
+
+.bg-color{
+    background-color: rgb(202, 238, 255);
+}
+
+.about-me{
+    background-color:rgb(255, 222, 193);
+}
+
+.skills{
+    background-color: rgb(110, 177, 177);
+}
+
+#education{
+    background-color: rgb(165, 216, 216);
+}
